@@ -10,7 +10,7 @@ from gtts import gTTS
 from playsound import playsound
 
 # Thiết lập API key cho Google Gemini
-genai.configure(api_key="AIzaSyDIZSl-1nqZf59MqHeVl20P4TsAeLcxD6E")
+genai.configure(api_key="Your_api_key")
 
 
 def remove_code_blocks(text):
