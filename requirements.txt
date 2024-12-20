@@ -1,0 +1,10 @@
+os
+time
+random
+re
+markdown
+keyboard
+SpeechRecognition
+google-generativeai
+gTTS
+playsound
